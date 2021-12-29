@@ -1,0 +1,114 @@
+
+.row{
+    display:flex;
+}
+.wrapp
+{
+    align-items: center;
+}
+#testimonials
+{
+    justify-content: center;
+}
+.header ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+
+}
+.header {
+    margin-left: auto;
+}
+
+.header select{
+    border:none;
+}
+.srch input[type="image"] {
+    margin-left: 30px;
+    height:20px;
+    width:20px;
+}
+.header a{
+   text-decoration: none;
+   margin-left: 10px;
+}
+.btn{
+background-color: #eb3c68;
+border: none;
+border-radius: 5px;
+color: white;
+padding: 8px 26px;
+text-align: center;
+text-decoration: none;
+/*display: inline-block;*/
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+
+}
+.btn img{
+   height:15px;
+   width:15px;
+   margin-right: 4px;
+}
+.smth{
+    color: black;
+}
+
+
+.txt{
+    height:300px;
+    width:500px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.srch {
+    margin-left: 20px;
+    align-items: center;
+}
+.srch img {
+    height: 15px;
+    width:15px;
+    
+}
+.srch input{
+    border:none;
+}
+.srch form{
+    display: flex;
+    align-items: center;
+}
+#testimonials .content {
+    background-color: rgb(247, 228, 230);
+    margin-top: 100px;
+    /*margin-left: 150px;*/
+    width:900px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    margin-top: 60px;
+}
+.s{
+    text-align: center;
+}
+.p{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.a{
+    color:rgb(235, 73, 67);
+}
+.b{
+    color: rgb(129, 128, 128);
+    width: 500px;
+}
+.txt h3{
+    margin-top: 50px;
+    color:rgb(235, 73, 67);
+}
+.txt p{
+  color:rgb(129, 128, 128);
+}
